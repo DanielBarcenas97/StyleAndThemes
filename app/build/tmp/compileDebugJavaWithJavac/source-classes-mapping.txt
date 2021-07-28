@@ -1,0 +1,4 @@
+com/dan/styleandthemes/BuildConfig.java
+ com.dan.styleandthemes.BuildConfig
+com/dan/styleandthemes/MainActivity.java
+ com.dan.styleandthemes.MainActivity
