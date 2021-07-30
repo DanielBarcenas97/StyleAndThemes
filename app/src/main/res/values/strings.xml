@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">StyleAndThemes</string>
+    <string name="tv_tittle_form">Formulario</string>
+    <string name="tv_name">Nombre</string>
+    <string name="et_name">Escribe tu nombre</string>
+    <string name="tv_phone">Telefono</string>
+    <string name="et_phone">Escribe tu telefono</string>
+    <string name="tv_email">Email</string>
+    <string name="et_email">Escribe tu email</string>
+    <string name="btn_next">Siguiente</string>
+
 </resources>

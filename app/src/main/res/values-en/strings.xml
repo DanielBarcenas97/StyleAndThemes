@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StyleAndThemes</string>
+    <string name="tv_tittle_form">Form</string>
+    <string name="tv_name">Name</string>
+    <string name="et_name">Write name</string>
+    <string name="tv_phone">Phone </string>
+    <string name="et_phone">Write phone number</string>
+    <string name="tv_email">Email</string>
+    <string name="et_email">Write email</string>
+    <string name="btn_next">Next</string>
+
+</resources>
