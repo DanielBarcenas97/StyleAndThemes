@@ -8,5 +8,6 @@
     <string name="tv_email">Email</string>
     <string name="et_email">Escribe tu email</string>
     <string name="btn_next">Siguiente</string>
+    <string name="click" translatable="false">Click</string>
 
 </resources>

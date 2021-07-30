@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StyleAndThemes</string>
+    <string name="tv_tittle_form">Forma</string>
+    <string name="tv_name">Nome</string>
+    <string name="et_name">Escreva seu nome</string>
+    <string name="tv_phone">Telefone</string>
+    <string name="et_phone">Escreva seu  telefone</string>
+    <string name="tv_email">Email</string>
+    <string name="et_email">Escreva seu email</string>
+    <string name="btn_next">Próximo</string>
+
+
+</resources>
