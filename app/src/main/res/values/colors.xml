@@ -14,4 +14,8 @@
     <color name="green_light">#4CF106</color>
 
 
+    <color name="sh_purple">#FFBB86FC</color>
+    <color name="sh_grey">#B4B2B6</color>
+    <color name="sh_purple_text">#421B3A</color>
+
 </resources>

@@ -36,16 +36,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
-            android:text="@string/tv_name">
-
-        </TextView>
+            android:text="@string/tv_name" />
 
         <EditText
             android:id="@+id/et_name"
             style="@style/edittext_blue"
             android:drawableEnd="@drawable/ic_name"
             android:hint="@string/et_name"
-            android:inputType="textPersonName" />
+            android:inputType="textPersonName"
+            />
 
 
         <TextView

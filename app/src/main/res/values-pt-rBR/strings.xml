@@ -10,6 +10,7 @@
     <string name="tv_email">Email</string>
     <string name="et_email">Escreva seu email</string>
     <string name="btn_next">Próximo</string>
-
+    <string name="tv_filters">Filtros</string>
+    <string name="tv_search">Estoy buscando</string>
 
 </resources>

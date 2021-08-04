@@ -9,5 +9,10 @@
     <string name="et_email">Escribe tu email</string>
     <string name="btn_next">Siguiente</string>
     <string name="click" translatable="false">Click</string>
+    <string name="tv_filters">Filtros</string>
+    <string name="tv_search">Estoy buscando</string>
+    <string name="rb_men">Hombres</string>
+    <string name="rb_women">Mujeres</string>
+    <string name="dcdsc">Hombres</string>
 
 </resources>
